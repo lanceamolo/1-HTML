@@ -1,3 +1,64 @@
-.title {
-  color: red;
+body {
+  background: lightblue;
+  font-family: Courier;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  text-decoration: underline;
+  text-decoration-color: black;
+  color: dodgerblue;
+}
+
+h4 {
+  padding: 15px;
+  margin-left: 55px;
+  margin-top: 15px;
+  background: white;
+  color: dodgerblue;
+}
+
+.first-p {
+  text-indent: 5%;
+  margin-right: 40px;
+  padding: 10px;
+  background: white;
+}
+
+.left-list {
+  margin: 15px 10px;
+  padding: 10px 5px;
+  background: white;
+}
+
+.right-list {
+  margin: 15px 10px;
+  padding: 10px 5px;
+  background: white;
+}
+
+footer {
+  margin-top: 30px;
+}
+
+.left-email {
+  text-align: right;
+}
+
+.email-me {
+  text-decoration: underline;
+  text-decoration-color: black;
+  color: dodgerblue;
+}
+
+.email-p {
+  background: white;
+  padding: 5px 10px 5px 5px;
+}
+
+.button {
+  background-color: dodgerblue;
+  border-radius: 8px;
 }
